@@ -4,9 +4,7 @@
 
 This page deliberately avoids salary numbers we can't source. If you add a CTC band, include a source and a date.
 
-For market structure, trading rules and data quirks in India, see [Indian markets: structure and practice](india-markets.md).
-
-**How to read the tables:** *Checked* is the date the careers link was last confirmed to load. *Unverified* means an official page has not yet been confirmed. Third-party job boards often list India roles before firms' own sites do, so confirm openings on the firm's site before applying.
+**How to read the tables:** *Checked* is the date the careers link was fetched and confirmed to load. *Unverified* means no official page could be confirmed; search the firm's name plus "careers" before applying. India roles often appear on third-party boards first, so treat those listings as leads, not confirmation.
 
 ## HFT / prop trading
 
@@ -18,11 +16,11 @@ Typical roles: QT, QD, QR. Values: speed math, probability, C++, systems.
 | Quadeye | [quadeye.com/careers](https://www.quadeye.com/careers) | Gurugram-based proprietary trading firm; aggregators show few open roles, so check the page directly. | 2026-10-29 |
 | Graviton | [gravitontrading.com/careers.html](https://www.gravitontrading.com/careers.html) | Research roles stress moving ideas from research to live trading. Gurugram listings include quant research, ML and HPC. | 2026-10-29 |
 | AlphaGrep | [alpha-grep.com/career](https://alpha-grep.com/career) | Mumbai and Bangalore quant trading, research, developer and management-trainee listings; open to CS and maths students. | 2026-10-29 |
-| iRage | Unverified | Mumbai algo and HFT firm with trading, sales and low-latency technology roles. | — |
-| NK Securities Research | Unverified | Gurugram HFT firm with campus-recruiting, trade-monitor and FPGA roles. | — |
+| iRage | Unverified | Mumbai algo and HFT firm with trading, sales and low-latency technology listings. Its `irage.in` site belongs to a broking entity, so don't use it as the careers page. | — |
+| NK Securities Research | Unverified | Gurugram HFT firm with campus-recruiting, trade-monitor and FPGA listings. Its `nksec.com` domain did not resolve to the firm. | — |
 | Optiver | [optiver.com (Mumbai tech jobs)](https://www.optiver.com/join-us/jobs/technology/mumbai/) | Active Mumbai tech hiring (execution technology, network and data-centre roles). Its FutureFocus programme is an all-expenses-paid Mumbai event for students. | 2026-10-29 |
 | Jane Street | [janestreet.com/join-jane-street](https://www.janestreet.com/join-jane-street/) | Mumbai data-centre and Bengaluru research listings seen, and the firm mostly hires undergraduates. SEBI has barred it from Indian markets and the firm disputes the findings, so check current news before applying. | 2026-10-29 |
-| Hudson River Trading | [hudsonrivertrading.com/careers](https://www.hudsonrivertrading.com/careers/) | Mumbai trading-infrastructure, business-development and TradeOps roles. | 2026-10-29 |
+| Hudson River Trading | [hudsonrivertrading.com/careers](https://www.hudsonrivertrading.com/careers/) | Mumbai trading-infrastructure, business-development and TradeOps roles. The careers page names Mumbai, not Bengaluru. | 2026-10-29 |
 
 ## Quant hedge funds / buy-side
 
@@ -42,11 +40,11 @@ Typical roles: strats, model validation, risk quant. Values: derivatives pricing
 
 | Firm | Careers page | Verdict | Checked |
 |---|---|---|---|
-| Goldman Sachs | Unverified | Large India presence. | — |
-| Morgan Stanley | Unverified | Large India technology and operations presence. | — |
-| JPMorgan | [careers.jpmorgan.com](https://careers.jpmorgan.com/) | Large India presence; check the markets and risk teams for quant roles. | 2026-10-29 |
+| Goldman Sachs | Unverified | Large India presence. Its site blocked automated checks, so check the firm's own careers site directly. | — |
+| Morgan Stanley | Unverified | Large India technology and operations presence. Automated checks timed out, so verify quant roles on the firm's site. | — |
+| JPMorgan | [careers.jpmorgan.com](https://careers.jpmorgan.com/) | Large India presence; check the markets and risk teams for quant roles. The URL redirects to the firm's main careers page. | 2026-10-29 |
 | Barclays | [home.barclays/careers](https://home.barclays/careers/) | Lists India among its key hiring locations; check markets and risk teams for quant roles. | 2026-10-29 |
-| Deutsche Bank | [careers.db.com](https://careers.db.com/) | Global careers site. India listings are not shown on the main page; search the site for India roles. | 2026-10-29 |
+| Deutsche Bank | [careers.db.com](https://careers.db.com/) | Global careers site. The page doesn't mention India, so look for India listings directly. | 2026-10-29 |
 
 ## Domestic AMCs & brokers
 
@@ -69,8 +67,8 @@ Typical roles: quant analyst, risk, data. Values: factor investing, data enginee
 
 | Competition | Link | Verdict | Checked |
 |---|---|---|---|
-| WorldQuant BRAIN | [platform.worldquantbrain.com](https://platform.worldquantbrain.com/) | Platform for building and testing alpha signals; a public on-ramp to WorldQuant's research roles. | Unverified |
-| Optiver on Kaggle: Trading at the Close (2023) | [kaggle.com/competitions/optiver-trading-at-the-close](https://www.kaggle.com/competitions/optiver-trading-at-the-close) | Predicting moves in the Nasdaq closing auction from order-book data; relevant to market-microstructure work. | 2026-10-29 |
+| WorldQuant BRAIN | [platform.worldquantbrain.com](https://platform.worldquantbrain.com/) | Platform for building and testing alpha signals; a public on-ramp to WorldQuant's research roles. The page is JavaScript-rendered, so its content couldn't be confirmed automatically. | Unverified |
+| Optiver on Kaggle: Trading at the Close (2023) | [kaggle.com/competitions/optiver-trading-at-the-close](https://www.kaggle.com/competitions/optiver-trading-at-the-close) | Predicting moves in the Nasdaq closing auction from order-book data; a realistic market-microstructure project. | 2026-10-29 |
 | Optiver on Kaggle: Realized Volatility Prediction (2021) | [kaggle.com/competitions/optiver-realized-volatility-prediction](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction) | Forecasting realized volatility from order-book and trade data; Optiver's first Kaggle contest. | 2026-10-29 |
 
 ## Making your profile stand out

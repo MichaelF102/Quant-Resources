@@ -1,7 +1,5 @@
 # Quant Developer roadmap
 
-*Last reviewed: Oct 2026 · Total time: ~8–10 months at 10–15 hrs/week*
-
 A Quant Developer builds the systems everything else runs on: market data handlers, backtesters, order management and, at HFT firms, trading engines where microseconds matter. Interviews lean heavily on **C++, data structures, operating systems and performance**, far more than on stochastic calculus.
 
 Two flavours of the role, and this roadmap covers both:

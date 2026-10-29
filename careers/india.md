@@ -4,6 +4,8 @@
 
 This page deliberately avoids salary numbers we can't source. If you add a CTC band, include a source and a date.
 
+For market structure, trading rules and data quirks in India, see [Indian markets: structure and practice](india-markets.md).
+
 **How to read the tables:** *Checked* is the date the careers link was last confirmed to load. *Unverified* means an official page has not yet been confirmed. Third-party job boards often list India roles before firms' own sites do, so confirm openings on the firm's site before applying.
 
 ## HFT / prop trading

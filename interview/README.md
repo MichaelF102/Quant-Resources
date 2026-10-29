@@ -28,9 +28,11 @@ Interviewers will often give hints — taking them gracefully is part of the ass
 ## Problem sets
 
 - [Probability & expectation](probability.md) — 10 classic problems with hidden solutions
-- Brainteasers — *coming soon*
-- Statistics & ML — *coming soon*
-- Options & derivatives — *coming soon*
+- [Brainteasers](brainteasers.md) — eight problems, from Monty Hall to Bertrand's chord
+- [Statistics & ML](statistics-ml.md) — estimation, bias and variance, cross-validation leakage, and multicollinearity
+- [Options & derivatives](options-derivatives.md) — put-call parity, early exercise, binomial pricing, and the Greeks in practice
+- [Market-making & betting games](market-making-games.md) — fair value, Kelly sizing, and inventory
+- [C++ & data structures](coding-cpp-dsa.md) — linked lists, top-k, LRU cache, and order-book design
 
 ## Books
 

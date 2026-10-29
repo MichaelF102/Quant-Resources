@@ -41,6 +41,10 @@ Not sure? Start with the **QR roadmap, Phase 1**. Probability and statistics are
 | 💼 [Careers (India)](careers/india.md) | Firms by type, entry routes, competitions and timing |
 | 📄 [Cheat sheets](cheatsheets/) | One-page references (Greeks, distributions, …) |
 | 🧰 [Tools and technologies](tools-and-technologies/) | Python, C++, profiling, Linux, version control, databases and quant libraries |
+| 📚 [Resources](resources/) | Books, papers and lectures, with verdicts and the phases that use them |
+| 📈 [Strategies](strategies/) | Strategy families used in systematic trading, each with a research question, costs and falsification tests |
+| 🔤 [Glossary](glossary.md) | Short definitions of the repo's terms, linked to where each is developed |
+| ❓ [FAQ](FAQ.md) | Which roadmap to start with, how long it takes, and what to install first |
 | ⚠️ [Pitfalls](pitfalls.md) | Why most backtests lie — and how to make yours honest |
 
 ---

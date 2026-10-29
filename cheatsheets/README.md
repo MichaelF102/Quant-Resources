@@ -12,6 +12,10 @@ Reference sheets for the formulas, conventions and interview questions used acro
 | [Fixed income](fixed-income.md) | Bond pricing, day-count conventions, YTM, duration, DV01, convexity, bootstrapping, forward rates, Nelson–Siegel | Roadmap Phase 1 (risk and derivatives), [Project 12](../projects/README.md) |
 | [Credit risk](credit-risk.md) | PD, LGD, EAD, expected and unexpected loss, hazard rates, CDS, Merton model, portfolio credit risk | [Project 12](../projects/README.md), risk and model validation roadmap |
 | [Technical indicators](technical-indicators.md) | Trend, momentum, volatility and volume indicators with verdicts and caveats | [Project 15](../projects/15-technical-indicator-study/), [Project 03](../projects/03-honest-backtester/) |
+| [Linear algebra](linear-algebra.md) | Eigendecomposition, SVD, least squares, Cholesky, shrinkage, PCA | [Project 06](../projects/06-covariance-shootout/), [Project 13](../projects/13-pca-nse-stocks/), QR Phase 2 |
+| [Probability](probability.md) | Bayes' rule, expectations of extremes, waiting times, random walks, limit results | [Probability set](../interview/probability.md), QT Phase 2 |
+| [C++ quick reference](cpp-quick-reference.md) | Moves, smart pointers, container complexity, undefined behaviour, atomics | QD Phases 1–3, [C++ problems](../interview/coding-cpp-dsa.md) |
+| [Market microstructure](market-microstructure.md) | Order types, matching rules, auctions, spread measures, ITCH message types | [Project 10](../projects/10-limit-order-book-simulator/), [Project 11](../projects/11-market-making-simulation/), QD Phase 6 |
 
 ## Conventions
 

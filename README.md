@@ -22,9 +22,9 @@
 | Role | What you actually do | Core skills | Your path |
 |---|---|---|---|
 | **Quant Researcher (QR)** | Find and validate predictive signals; build models | Probability, statistics, time series, ML, research hygiene | [Roadmap →](roadmaps/quant-researcher.md) |
-| **Quant Trader (QT)** | Price, quote and manage risk in real time | Mental math, probability, options intuition, game theory | Roadmap — *coming soon* |
+| **Quant Trader (QT)** | Price, quote and manage risk in real time | Mental math, probability, options intuition, game theory | [Roadmap →](roadmaps/quant-trader.md) |
 | **Quant Developer (QD)** | Build the trading systems, backtesters and data pipelines | C++/Python, systems, data structures, low latency | [Roadmap →](roadmaps/quant-developer.md) |
-| **Risk / Model Validation** | Measure, stress and challenge models | Statistics, derivatives pricing, regulation (FRTB, Basel) | Roadmap — *coming soon* |
+| **Risk / Model Validation** | Measure, stress and challenge models | Statistics, derivatives pricing, regulation (FRTB, Basel) | [Roadmap →](roadmaps/risk-model-validation.md) |
 
 Not sure? Start with the **QR roadmap, Phase 1**. Probability and statistics are shared by every role.
 
@@ -34,7 +34,7 @@ Not sure? Start with the **QR roadmap, Phase 1**. Probability and statistics are
 
 | Section | Use it for |
 |---|---|
-| 🗺️ [Roadmaps](roadmaps/) | Phased plans per role, with time estimates and "skip for now" notes |
+| 🗺️ [Roadmaps](roadmaps/) | Phased plans for four roles, with time budgets, checkpoints and "skip for now" notes. [Compare them](roadmaps/README.md) |
 | 🛠️ [Projects](projects/) | A difficulty-ordered ladder of projects that prove each concept |
 | 📊 [Data sources](data/data-sources.md) | Where to get prices, option chains, factors, macro and tick data — with caveats |
 | 🧠 [Interview prep](interview/) | Problem sets with hidden solutions, round-by-round expectations |

@@ -2,7 +2,7 @@
 
 *If you can't build it, you don't know it yet.*
 
-Projects are roughly ordered by difficulty.
+Projects are roughly ordered by difficulty. For the firms that hire for these skills, see [Careers in India](../careers/india.md).
 
 **Status key:** ✅ starter code · 📋 full spec · 📝 outline only Each one names the concepts it proves, the data to use, and a **done when** checklist, so you know when to stop polishing and move on.
 
@@ -16,11 +16,13 @@ Projects are roughly ordered by difficulty.
 | 06 | Covariance estimation shoot-out | Sample vs. Ledoit-Wolf vs. factor covariance | NIFTY 50 daily | 🟡 | 📝 Outline |
 | 07 | GARCH volatility forecasting | ARCH effects, GARCH(1,1), forecast evaluation | NIFTY index | 🟡 | 📝 Outline |
 | 08 | Factor model for Indian equities | Fama-French style factors, cross-sectional regression | NSE + fundamentals | 🔴 | 📝 Outline |
-| 09 | Purged cross-validation for a ML signal | Leakage, purging & embargo, deflated Sharpe | Any daily panel | 🔴 | 📝 Outline |
+| 09 | Purged cross-validation for a ML signal | Leakage, purging & embargo, deflated Sharpe. Stretch: a leakage-aware sequence model (LSTM) for forecasting, evaluated with the same purged splits | Any daily panel | 🔴 | 📝 Outline |
 | 10 | Limit order book simulator (C++) | Matching engine, data structures, latency | Synthetic / LOBSTER sample | 🔴 | 📝 Outline |
 | 11 | Market-making simulation | Inventory risk, Avellaneda-Stoikov quoting | Synthetic | 🔴 | 📝 Outline |
 | 12 | Risk engine: VaR & Expected Shortfall | Historical / parametric / MC VaR, backtesting VaR | Multi-asset portfolio | 🟡 | 📝 Outline |
 | 13 | PCA on NSE stocks | Eigen-decomposition, covariance structure, factor interpretation | NIFTY 50 daily | 🟢 | 📝 Outline |
+| 14 | [Finite-difference Black-Scholes solver](14-finite-difference-black-scholes/) | Numerical PDE solving, θ-schemes, stability and convergence, American options | Synthetic (Project 01 parameters) | 🟡 | 📋 Full spec |
+| 15 | [Technical-indicator study](15-technical-indicator-study/) | Rule definition, look-ahead prevention, walk-forward testing, null benchmarks, multiple testing | NSE daily (Project 03 universe) | 🟡 | 📋 Full spec |
 
 ---
 

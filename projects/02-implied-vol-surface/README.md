@@ -55,6 +55,7 @@ You need for each contract: expiry, strike, option type (CE/PE), settlement or c
 - Animate the surface across a volatile month (e.g. around an election result or budget day).
 - Compare implied vol with **realised** volatility of NIFTY over the following period — is implied systematically higher? (This is the volatility risk premium.)
 - Compute and plot the risk-neutral density from the smile using the Breeden-Litzenberger result.
+- Build an **option chain analyser and payoff visualiser**. For one expiry, let the user choose a multi-leg position (straddle, strangle, vertical spread, iron condor) and plot its payoff at expiry, together with the position's Delta, Gamma, Vega and Theta from the implied volatilities in this project. Use the [Greeks cheat sheet](../../cheatsheets/greeks.md) for formulas and check the aggregated Greeks against finite differences of the position value.
 
 ## Further reading
 

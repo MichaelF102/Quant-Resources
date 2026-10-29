@@ -40,6 +40,7 @@ Not sure? Start with the **QR roadmap, Phase 1**. Probability and statistics are
 | 🧠 [Interview prep](interview/) | Problem sets with hidden solutions, round-by-round expectations |
 | 💼 [Careers (India)](careers/india.md) | Firms by type, entry routes, competitions and timing |
 | 📄 [Cheat sheets](cheatsheets/) | One-page references (Greeks, distributions, …) |
+| 🧰 [Tools and technologies](tools-and-technologies/) | Python, C++, profiling, Linux, version control, databases and quant libraries |
 | ⚠️ [Pitfalls](pitfalls.md) | Why most backtests lie — and how to make yours honest |
 
 ---

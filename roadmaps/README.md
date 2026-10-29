@@ -29,6 +29,7 @@ Every path uses these, so work on them in parallel with the phases:
 - [Interview prep](../interview/): problem sets and round-by-round expectations.
 - [Data sources](../data/data-sources.md): what your data is and isn't.
 - [Careers in India](../careers/india.md): firms, entry routes and timing.
+- [Tools and technologies](../tools-and-technologies/): Python, C++, profiling, Linux, version control, databases and quant libraries.
 
 ## Conventions used in the roadmaps
 

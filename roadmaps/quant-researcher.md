@@ -185,6 +185,6 @@ By the end you should have, on GitHub, with READMEs, tests and clear results:
 ## After the roadmap
 
 - Start the [interview problem sets](../interview/) daily from Phase 2 onward.
-- Enter a competition (WorldQuant BRAIN, Kaggle finance challenges). See [careers](../careers/india.md).
+- Enter a competition (WorldQuant BRAIN, Kaggle finance challenges). See [careers](../careers/india_opportunities.md).
 - Write up your best two projects properly: hypothesis, data, method, results **including what failed**.
 - Other paths: [Quant Developer](quant-developer.md), [Quant Trader](quant-trader.md), [Risk and Model Validation](risk-model-validation.md). See the [roadmap index](README.md) to compare them.

@@ -2,7 +2,7 @@
 
 Start these in parallel with the roadmap from Phase 2. **20 minutes a day** beats a cram week — pattern recognition is the whole game.
 
-For the firms that hire for these skills, and where to apply, see [Careers in India](../careers/india.md).
+For the firms that hire for these skills, and where to apply, see [Careers in India](../careers/india_opportunities.md).
 
 ## What each round actually tests
 

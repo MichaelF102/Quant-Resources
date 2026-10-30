@@ -38,7 +38,7 @@ Not sure? Start with the **QR roadmap, Phase 1**. Probability and statistics are
 | 🛠️ [Projects](projects/) | A difficulty-ordered ladder of projects that prove each concept |
 | 📊 [Data sources](data/data-sources.md) | Where to get prices, option chains, factors, macro and tick data — with caveats |
 | 🧠 [Interview prep](interview/) | Problem sets with hidden solutions, round-by-round expectations |
-| 💼 [Careers (India)](careers/india.md) | Firms by type, entry routes, competitions and timing |
+| 💼 [Careers (India)](careers/india_opportunities.md) | Firms by type, entry routes, competitions and timing |
 | 📄 [Cheat sheets](cheatsheets/) | One-page references (Greeks, distributions, …) |
 | 🧰 [Tools and technologies](tools-and-technologies/) | Python, C++, profiling, Linux, version control, databases and quant libraries |
 | 📚 [Resources](resources/) | Books, papers and lectures, with verdicts and the phases that use them |

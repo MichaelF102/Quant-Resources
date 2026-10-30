@@ -2,7 +2,7 @@
 
 *If you can't build it, you don't know it yet.*
 
-Projects are roughly ordered by difficulty. For the firms that hire for these skills, see [Careers in India](../careers/india.md).
+Projects are roughly ordered by difficulty. For the firms that hire for these skills, see [Careers in India](../careers/india_opportunities.md).
 
 **Status key:** ✅ starter code · 📋 full spec · 📝 outline only.
 

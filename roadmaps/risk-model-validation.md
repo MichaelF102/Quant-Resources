@@ -4,7 +4,7 @@
 
 Risk and model validation roles measure, stress and challenge the models that front-office teams build. The job is less about inventing a new model and more about asking whether a model is fit for its purpose, how it fails, and how much loss it can hide. Regulators, auditors and senior management rely on that judgement, so the skill is clear reasoning about uncertainty, plus enough technical depth to replicate a model and find its weaknesses.
 
-This roadmap is a good fit if you come from statistics, econometrics or engineering and want a stable path into banks, insurers, asset managers and exchanges. It also leads into front-office quant work; see the adjacent-roles note in [careers](../careers/india.md).
+This roadmap is a good fit if you come from statistics, econometrics or engineering and want a stable path into banks, insurers, asset managers and exchanges. It also leads into front-office quant work; see the adjacent-roles note in [careers](../careers/india_opportunities.md).
 
 ```mermaid
 flowchart LR

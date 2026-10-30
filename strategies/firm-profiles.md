@@ -34,8 +34,8 @@ Firm descriptions change. Check the page before relying on one.
 | [Jane Street](https://www.janestreet.com/) | Research-driven trading firm, "where curious people work together on deep problems" | 2026-10-29 | The source article described Jane Street as a global liquidity provider using quantitative analysis and machine learning. The homepage does not say that. The homepage does state a view on deep learning in quantitative trading. |
 | [Citadel Securities](https://www.citadelsecurities.com/) | Not confirmed: the page returned a 403 response to the automated check | Not confirmed | The source article's description has not been checked against the firm's page. |
 | [Virtu Financial](https://www.virtu.com/) | Financial services company offering trade execution, data, analytics and market-making services | 2026-10-29 | None |
-| [Optiver](https://optiver.com/) | "A leading technology- and research-driven trading firm" | 2026-10-29 | The source article described Optiver as an options market maker. The homepage does not use that wording. See the [careers page](../careers/india.md) for India-specific roles |
-| [Hudson River Trading](https://www.hudsonrivertrading.com/) | "A multi-asset class quantitative trading firm" | 2026-10-29 | See the [careers page](../careers/india.md) for India-specific roles |
+| [Optiver](https://optiver.com/) | "A leading technology- and research-driven trading firm" | 2026-10-29 | The source article described Optiver as an options market maker. The homepage does not use that wording. See the [careers page](../careers/india_opportunities.md) for India-specific roles |
+| [Hudson River Trading](https://www.hudsonrivertrading.com/) | "A multi-asset class quantitative trading firm" | 2026-10-29 | See the [careers page](../careers/india_opportunities.md) for India-specific roles |
 
 ## Using this file
 

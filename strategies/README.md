@@ -24,8 +24,31 @@ This folder is for learning and research. Nothing here is investment advice, and
 | Machine learning for return prediction | Nonlinear models of returns from many features | [ML alpha research](ml-alpha-research.md) | [Project 09](../projects/09-purged-cross-validation/) |
 | Optimal execution and market impact | Decides how fast to trade a large order | [Execution and market impact](execution-and-impact.md) | [Project 17](../projects/17-optimal-execution/), with [Project 10](../projects/10-limit-order-book-simulator/) for the book |
 | Systematic global macro | Trades rates, currencies and indices on macro signals | [Systematic macro](systematic-macro.md) | None yet |
-| Pairs trading and relative value | Trades two related assets when their spread leaves its equilibrium | [Statistical arbitrage](statistical-arbitrage.md) | [Project 05](../projects/05-pairs-trading-cointegration/) |
+| Pairs trading and relative value | Trades two related assets when their spread leaves its equilibrium | [Pairs trading](pairs-trading.md) | [Project 05](../projects/05-pairs-trading-cointegration/) |
 | Portfolio optimisation and risk allocation | Turns signals into weights under risk, cost and exposure limits | [Portfolio optimisation](portfolio-optimisation.md) | [Project 06](../projects/06-covariance-shootout/), [Project 12](../projects/12-risk-engine-var-es/) |
+| Cross-sectional momentum | Ranks stocks on past return, skipping the latest month | [Cross-sectional momentum](cross-sectional-momentum.md) | [Project 04](../projects/04-momentum-mean-reversion-study/) |
+| Short-term reversal | Holds recent losers and shorts recent winners over days to a month | [Short-term reversal](short-term-reversal.md) | [Project 04](../projects/04-momentum-mean-reversion-study/) |
+| Carry | Holds assets with high yield or roll return, across currencies, bonds and commodities | [Carry](carry.md) | None yet |
+| Index and basis arbitrage | Trades the gap between index futures and the cost-of-carry price of the basket | [Index and basis arbitrage](index-and-basis-arbitrage.md) | None yet |
+| Value | Holds stocks cheap on book or earnings relative to price | [Value](value.md) | [Project 08](../projects/08-factor-model-indian-equities/) |
+| Quality | Holds profitable, stable, low-leverage firms | [Quality](quality.md) | [Project 08](../projects/08-factor-model-indian-equities/) |
+| Low volatility | Holds low-volatility or low-beta stocks | [Low volatility](low-volatility.md) | [Project 08](../projects/08-factor-model-indian-equities/) |
+| Post-earnings announcement drift | Trades in the direction of earnings surprises over the following weeks | [Post-earnings announcement drift](post-earnings-announcement-drift.md) | None yet |
+| Merger arbitrage | Holds the target of an announced deal, earning the spread if it closes | [Merger arbitrage](merger-arbitrage.md) | None yet |
+| Fixed-income relative value | Trades curve, swap-spread and futures-basis relationships, hedged for duration | [Fixed-income relative value](fixed-income-relative-value.md) | None yet |
+| Order-flow imbalance | Predicts short-horizon price moves from changes in book depth | [Order-flow imbalance](order-flow-imbalance.md) | [Project 10](../projects/10-limit-order-book-simulator/), [Project 11](../projects/11-market-making-simulation/) |
+| Alternative data and sentiment | Uses text and other non-price data to predict returns | [Alternative data and sentiment](alternative-data-and-sentiment.md) | [Project 09](../projects/09-purged-cross-validation/) (evaluation) |
+| Dispersion and volatility arbitrage | Trades index volatility against component volatility, and implied against realised correlation | [Dispersion and volatility arbitrage](dispersion-and-volatility-arbitrage.md) | [Project 02](../projects/02-implied-vol-surface/), [Project 14](../projects/14-finite-difference-black-scholes/) |
+| Risk parity | Allocates so each asset contributes equal risk | [Risk parity](risk-parity.md) | [Project 06](../projects/06-covariance-shootout/), [Project 12](../projects/12-risk-engine-var-es/) |
+| Lead–lag across markets | Trades a lagging instrument on the recent move of a related one | [Lead–lag across related markets](lead-lag-cross-market.md) | None yet |
+| Seasonality and calendar effects | Trades stated calendar windows, such as month-end or expiry periods | [Seasonality and calendar effects](seasonality-and-calendar-effects.md) | None yet |
+| Industry momentum | Holds the best-performing sectors over the past several months | [Industry momentum](industry-momentum.md) | [Project 04](../projects/04-momentum-mean-reversion-study/) (ranking and evaluation) |
+| Tail-risk hedging | Buys protection against rare large losses, paying a steady premium | [Tail-risk hedging](tail-risk-hedging.md) | [Project 12](../projects/12-risk-engine-var-es/), [Project 02](../projects/02-implied-vol-surface/) |
+| Mean reversion (single asset) | Trades the deviation of a price from its own moving average, in volatility units | [Mean reversion (single asset)](mean-reversion-single-asset.md) | [Project 04](../projects/04-momentum-mean-reversion-study/), [Project 15](../projects/15-technical-indicator-study/) |
+| Trend-following rules | Moving-average crossovers, Donchian channels, SuperTrend and ATR stops | [Trend-following rules](trend-following-rules.md) | [Project 15](../projects/15-technical-indicator-study/), [Project 16](../projects/16-time-series-momentum/) |
+| Breakout and volatility expansion | Buys range breaks confirmed by volume, with ATR stops | [Breakout and volatility expansion](breakout-volatility-expansion.md) | [Project 15](../projects/15-technical-indicator-study/) |
+| Regime switching | Changes exposure according to an estimated market state | [Regime switching](regime-switching.md) | [Project 09](../projects/09-purged-cross-validation/) (validation) |
+| Size | Small-cap against large-cap, with a liquidity filter | [Size](size.md) | [Project 08](../projects/08-factor-model-indian-equities/) |
 
 ## Where to start
 
@@ -52,6 +75,29 @@ Study in this order. Each step reuses the one before.
 | [Options relative value](options-relative-value.md) | Implied against realised volatility, variance risk premium |
 | [Execution and market impact](execution-and-impact.md) | VWAP, TWAP, implementation shortfall, impact models |
 | [Systematic macro](systematic-macro.md) | Macro signals across asset classes |
+| [Pairs trading](pairs-trading.md) | Two-stock spreads: pair selection, hedge ratios, stop-outs and structural breaks |
+| [Short-term reversal](short-term-reversal.md) | Short-horizon reversal, its liquidity dependence, and its turnover cost |
+| [Carry](carry.md) | Carry across currencies, bonds and commodities, and its crash profile |
+| [Index and basis arbitrage](index-and-basis-arbitrage.md) | Cash–futures arbitrage on NSE, cost-of-carry thresholds, and expiry risk |
+| [Value](value.md) | Book-to-price and earnings-to-price, point-in-time fundamentals and value traps |
+| [Quality](quality.md) | Profitability, accruals and leverage, and overlap with value |
+| [Low volatility](low-volatility.md) | Low volatility and low beta, the leverage-constraint explanation, and rising-market lag |
+| [Post-earnings announcement drift](post-earnings-announcement-drift.md) | Earnings surprises, announcement timing and the drift after them |
+| [Merger arbitrage](merger-arbitrage.md) | Deal spreads, implied completion probability and failure risk |
+| [Fixed-income relative value](fixed-income-relative-value.md) | Curve, swap-spread and bond-futures basis trades, hedged for duration |
+| [Order-flow imbalance](order-flow-imbalance.md) | Book-depth changes and short-horizon price impact |
+| [Alternative data and sentiment](alternative-data-and-sentiment.md) | Text signals, publication-time leakage and dictionary overfitting |
+| [Dispersion and volatility arbitrage](dispersion-and-volatility-arbitrage.md) | Implied against realised correlation and correlation-spike risk |
+| [Risk parity](risk-parity.md) | Equal risk contributions, leverage cost and correlation regimes |
+| [Lead–lag across related markets](lead-lag-cross-market.md) | Cross-autocorrelation across instruments and non-synchronous closes |
+| [Seasonality and calendar effects](seasonality-and-calendar-effects.md) | Calendar windows, data-mining risk, and the discipline needed to test them |
+| [Industry momentum](industry-momentum.md) | Sector-level momentum and its overlap with stock momentum |
+| [Tail-risk hedging](tail-risk-hedging.md) | Protection instruments, their premium, and when a hedge pays for itself |
+| [Mean reversion (single asset)](mean-reversion-single-asset.md) | Z-scores against a price's own average, news-driven deviations, and trend mistaken for reversion |
+| [Trend-following rules](trend-following-rules.md) | Rule-based trend systems, the contribution of each component, and parameter overfitting |
+| [Breakout and volatility expansion](breakout-volatility-expansion.md) | Range breaks, same-bar entry, and false breakouts |
+| [Regime switching](regime-switching.md) | Hidden-state models, filtering versus smoothing, and label switching |
+| [Size](size.md) | The small-cap premium, share-count errors, and the liquidity filter it depends on |
 | [Evaluation framework](evaluation-framework.md) | Metrics, validation pipeline, and the falsification checklist for every strategy |
 | [India trading costs](india-trading-costs.md) | Cost components for Indian equities and derivatives, and how to model them |
 | [Firm profiles](firm-profiles.md) | What each firm's own site says, with the date checked |

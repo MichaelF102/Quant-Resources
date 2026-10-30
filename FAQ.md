@@ -42,7 +42,7 @@ Check the conventions first: continuous or simple rates, per-period or annualise
 
 ## How do I get interview-ready?
 
-Work the [interview problem sets](interview/README.md) daily from Phase 2 of your roadmap. Solve each problem for at least ten minutes before opening the solution, and say your reasoning out loud. Use the [careers page](careers/india.md) for the firms that hire in India, and the [Indian markets guide](careers/india-markets.md) for the market context.
+Work the [interview problem sets](interview/README.md) daily from Phase 2 of your roadmap. Solve each problem for at least ten minutes before opening the solution, and say your reasoning out loud. Use the [careers page](careers/india_opportunities.md) for the firms that hire in India, and the [Indian markets guide](careers/india-markets.md) for the market context.
 
 ## How can I contribute?
 
